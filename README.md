@@ -1,3 +1,3 @@
 # async-http-client-sample
 
-To be updated..
+Use this simple application you can debug how Netty implements a NIO client.
